@@ -1,0 +1,130 @@
+.places {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.places h1 {
+    width: 100%;
+    font-size: 30px;
+}
+
+.places article {
+    width: 390px;
+    border: solid 1px #FF5A5F;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.places article h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+    padding-left: 100px;
+    position: absolute;
+}
+
+.places article .price_by_night {
+    color: #FF5A5F;
+    margin-left: auto;
+    align-items: center;
+    border: solid 4px;
+    border-radius: 50%;
+    display: flex;
+    min-width: 60px;
+    min-height: 60px;
+}
+
+.places article .price_by_night span {
+    font-size: 30px;
+    color: #FF5A5F;
+    padding: 6px;
+    position: relative;
+    text-align: center;
+}
+
+.places article .information {
+    height: 80px;
+    border-bottom: solid 1px #DDDDDD;
+    border-top: solid 1px #DDDDDD;
+    margin-top: 20px;
+    align-content: space-between;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    display: flex;
+}
+
+.places article .information p {
+    height: 15%;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.places article .information .max_guest {
+    height: 60px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.guest_icon {
+    height: 50px;
+    width: 50px;
+    background-image: url(../images/icon_group.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.places article .information .numbers_rooms {
+    height: 60px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rooms_icon {
+    height: 50px;
+    width: 50px;
+    background-image: url(../images/icon_bed.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.places article .information .number_bathrooms {
+    height: 60px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bathrooms_icon {
+    height: 50px;
+    width: 50px;
+    background-image: url(../images/icon_bed.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.description article p {
+    display: flex;
+    width: 100%;
+    text-align: left;
+    margin-top: 10px;
+}
+
+footer {
+    position: relative;
+}
+
+.places article .information .description p {
+    text-align: left;
+}
