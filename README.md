@@ -304,6 +304,21 @@ Rodrigo
 
 <a href="https://github.com/RodrigoMato00/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/RodrigoMato00?style=social" alt="RodrigoMato00 | Github"> </a>
 
+## 0x0B Web Static
+
+* [0-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/0-index.html)
+* [1-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/1-index.htm)
+* [2-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/2-index.htm)
+* [3-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/3-index.htm)
+* [4-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/4-index.htm)
+* [5-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/5-index.htm)
+* [6-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/6-index.htm)
+* [7-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/7-index.htm)
+* [100-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/100-index.htm)
+* [101-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/101-index.htm)
+* [102-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/102-index.htm)
+* [103-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/103-index.htm)
+
 <br/>
 <br/>
 
