@@ -314,6 +314,7 @@ Rodrigo
 * [5-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/5-index.html)
 * [6-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/6-index.html)
 * [7-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/7-index.html)
+* [8-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/8-index.html)
 * [100-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/100-index.html)
 * [101-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/101-index.html)
 * [102-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/102-index.html)
