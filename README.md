@@ -307,17 +307,17 @@ Rodrigo
 ## 0x0B Web Static
 
 * [0-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/0-index.html)
-* [1-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/1-index.htm)
-* [2-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/2-index.htm)
-* [3-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/3-index.htm)
-* [4-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/4-index.htm)
-* [5-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/5-index.htm)
-* [6-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/6-index.htm)
-* [7-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/7-index.htm)
-* [100-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/100-index.htm)
-* [101-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/101-index.htm)
-* [102-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/102-index.htm)
-* [103-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/103-index.htm)
+* [1-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/1-index.html)
+* [2-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/2-index.html)
+* [3-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/3-index.html)
+* [4-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/4-index.html)
+* [5-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/5-index.html)
+* [6-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/6-index.html)
+* [7-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/7-index.html)
+* [100-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/100-index.html)
+* [101-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/101-index.html)
+* [102-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/102-index.html)
+* [103-index](https://rodrigomato00.github.io/AirBnB_clone/web_static/103-index.html)
 
 <br/>
 <br/>
