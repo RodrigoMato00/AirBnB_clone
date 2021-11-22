@@ -31,12 +31,14 @@ button:hover {
     width: 25%;
     border-right: solid 1px #DDDDDD;
     padding-left: 30px;
+    cursor: pointer;
 }
 
 .amenities {
     height: 100%;
     width: 25%;
     padding-left: 30px;
+    cursor: pointer;
 }
 
 h3 {
